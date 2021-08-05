@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on school management system
 - 🌱 I’m currently learning laravel, ajax, vue js
+- 🔭 I've completed ecommerce, inventory, pos & blogsite
 - 👯 I’m looking to collaborate on laravel
 - 🤔 I’m looking for help with laravel
 - 💬 Ask me about laravel
