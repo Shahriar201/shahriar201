@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning laravel, ajax, vue js
 - 🔭 I've completed ecommerce, inventory, pos & blogsite
 - 👯 I’m looking to collaborate on laravel
-- 🤔 I’m looking for help with laravel
+- 🤔 I’m looking for help with laravel and Vue JS
 - 💬 Ask me about laravel
 - 📫 How to reach me: Instagram: @shahriar.i.am Linkedin: @the-shahriar
 - 😄 Pronouns: He/His
