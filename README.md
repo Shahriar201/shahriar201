@@ -1,6 +1,6 @@
 ### Hi there, I'm Md. Shahriar Islam 👋
 
-- 🔭 I’m currently working on ecommerce with vue
+- 🔭 I’m currently working with PayraSoft
 - 🌱 I’m currently learning laravel, ajax, vue js
 - 🔭 I've completed ecommerce, inventory, pos & blogsite
 - 👯 I’m looking to collaborate on laravel
