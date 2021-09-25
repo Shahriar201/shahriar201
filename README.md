@@ -1,8 +1,8 @@
 ### Hi there, I'm Md. Shahriar Islam 👋
 
-- 🔭 I’m currently working with PayraSoft
+- 🔭 I’m currently working for my own
 - 🌱 I’m currently learning laravel, ajax, vue js
-- 🔭 I've completed ecommerce, inventory, pos & blogsite
+- 🔭 I've completed ecommerce, inventory, pos, blogsite & newspaper
 - 👯 I’m looking to collaborate on laravel
 - 🤔 I’m looking for help with laravel and Vue JS
 - 💬 Hire me as a laravel developer
