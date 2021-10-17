@@ -1,7 +1,7 @@
 ### Hi there, I'm Md. Shahriar Islam 👋
 
 - 🔭 I’m currently working at Innovation IT
-- 🌱 I’m currently learning CodeIgniter
+- 🌱 I’m currently learning CodeIgniter & JavaScript
 - 🔭 I've completed ecommerce, inventory, pos, blogsite & newspaper
 - 👯 I’m looking to collaborate on laravel
 - 🤔 I’m looking for help with laravel and Vue JS
